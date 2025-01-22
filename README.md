@@ -1,10 +1,5 @@
 
-<style>
-th:first-child, td:first-child {
-  width: 160px;
-}
-</style>
-
+::: {style="white-space: nowrap;"}
 | Component | Description |
 |-------------|-------------|
 | [agent-as-a-service](/agent-as-a-service) | The production-grade agent launchpad and management. |
@@ -18,7 +13,7 @@ th:first-child, td:first-child {
 | [decentralized-inference](/decentralized-inference) | The trustless, onchain-verifiable inference protocol. |
 | [decentralized-storage](/decentralized-storage) | Truly Open AI works with popular decentralized storage networks, including Filecoin, Greenfield, and Arweave. |
 | [decentralized-swarms](/decentralized-swarms) | Fully-onchain decentralized multi-agent systems |
-
+:::
 
 # The Algorithms - JavaScript
 
