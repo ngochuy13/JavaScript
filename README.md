@@ -1,54 +1,55 @@
 
 <table>
   <tr>
-    <th style="white-space: nowrap;">Component</th>
+    <th>Component</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><a href="/agent-as-a-service">agent-as-a-service</a></td>
+    <td><a style="white-space: nowrap;" href="/agent-as-a-service">agent-as-a-service</a></td>
     <td>The production-grade agent launchpad and management.</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><a href="/ai-architectures">ai-architectures</a></td>
+    <td><a style="white-space: nowrap;" href="/ai-architectures">ai-architectures</a></td>
     <td>The various AI architectures, including Chain of Thought, Plan and Execute, Critique Revise, and Self-Ask.</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><a href="/ai-frameworks">ai-frameworks</a></td>
+    <td><a style="white-space: nowrap;" href="/ai-frameworks">ai-frameworks</a></td>
     <td>Truly Open AI works with popular agent frameworks, including Eliza, Rig, and ZerePy.</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><a href="/agent-as-a-service">ai-kernel</a></td>
+    <td><a style="white-space: nowrap;" href="/agent-as-a-service">ai-kernel</a></td>
     <td>The central component of the AI-powered blockchain architecture.</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><a href="/blockchains">blockchains</a></td>
+    <td><a style="white-space: nowrap;" href="/blockchains">blockchains</a></td>
     <td>Truly Open AI is deployed on popular blockchains, including Bitcoin, Ethereum, and Solana.</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><a href="/creator-tools">creator-tools</a></td>
+    <td><a style="white-space: nowrap;" href="/creator-tools">creator-tools</a></td>
     <td>No-code tools for AI creators to create and manage their agents.</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><a href="/decentralized-agents">decentralized-agents</a></td>
+    <td><a style="white-space: nowrap;" href="/decentralized-agents">decentralized-agents</a></td>
     <td>A set of smart contract standards for fully onchain AI agents, including AI721 and AI721Knowledge.</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><a href="/decentralized-compute">decentralized-compute</a></td>
+    <td><a style="white-space: nowrap;" href="/decentralized-compute">decentralized-compute</a></td>
     <td>The DePIN infrastructure powering agents.</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><a href="/decentralized-inference">decentralized-inference</a></td>
+    <td><a style="white-space: nowrap;" href="/decentralized-inference">decentralized-inference</a></td>
     <td>The trustless, onchain-verifiable inference protocol.</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><a href="/decentralized-storage">decentralized-storage</a></td>
+    <td><a style="white-space: nowrap;" href="/decentralized-storage">decentralized-storage</a></td>
     <td>Truly Open AI works with popular decentralized storage networks, including Filecoin, Greenfield, and Arweave.</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;"><a href="/decentralized-swarms">decentralized-swarms</a></td>
+    <td><a style="white-space: nowrap;" href="/decentralized-swarms">decentralized-swarms</a></td>
     <td>Fully-onchain decentralized multi-agent systems.</td>
   </tr>
 </table>
+
 
 
 # The Algorithms - JavaScript
